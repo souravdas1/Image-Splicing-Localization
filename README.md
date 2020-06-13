@@ -1,4 +1,4 @@
-**Localization of Manipulated Image Regions**
+# Localization of Manipulated Image Regions
 
 
 **Problem Statement**
