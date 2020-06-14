@@ -24,7 +24,7 @@ gast==0.3.3
 google-pasta==0.2.0
 grpcio==1.29.0
 h5py==2.10.0
-httplib2==0.9.2
+httplib2==0.18.0
 hyperlink==17.3.1
 idna==2.6
 image-classifiers==1.0.0
